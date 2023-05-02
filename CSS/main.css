@@ -1,0 +1,158 @@
+/* Universl Padding */
+
+.uni-padding {
+    padding: 50px;
+}
+/* Left Pane */
+
+.dharmesh {
+    height: 200px;
+    max-width: 100%;
+    padding: 20px;
+}
+
+#Leftpane {
+    background-color: #39c3b1;
+}
+
+#Leftpane img {
+
+    border-radius: 50%;
+}
+
+#Leftpane h1,
+h2,
+h4,
+h5 {
+    font-family: 'Oswald', sans-serif;
+}
+
+#Leftpane h3 {
+
+    font-family: 'Josefin Sans', sans-serif;
+}
+#Leftpane p {
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.pinfo h3 {
+    background-color: #1c8375;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    padding: 10px;
+}
+/* Skilss Section  */
+
+.skills {
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+
+.skills p {
+    background-color: gray;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.skills h3 {
+    background-color: #1c8375;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+/* Personal Skill Section */
+
+.pskills {
+
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+
+.pskills p {
+    background-color: gray;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.pskills h3 {
+    background-color: #1c8375;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* Hobbies Section */
+
+.hobbies {
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+
+.hobbies p {
+
+    background-color: gray;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.hobbies h3 {
+    background-color: #1c8375;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.lang {
+    margin-top: 70px;
+    margin-bottom: 20px;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+.lang h3 {
+    background-color: #1c8375;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.lang p {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.fa-star {
+    margin-right: 20px;
+    color: black;
+    text-shadow: 2px 2px 5px white;
+}
+
+/* Right Pane */
+
+#Rightpane {
+
+    background-color: whitesmoke;
+}
+
+#Summary {
+    box-sizing: border-box;
+    padding: 20px;
+    text-indent: 40px;
+
+}
+
+#Rightpane h1 {
+    color: #39c3b1;
+    text-align: center;
+    border-top: 2px solid lightgrey;
+    border-bottom: 2px solid lightgrey;
+    padding: 5px;
+    font-family: 'Oswald', sans-serif;
+}
+
+body p,
+li {
+    font-family: 'Nunito Sans', sans-serif;
+}
